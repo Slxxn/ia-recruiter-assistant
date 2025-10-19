@@ -28,3 +28,11 @@
 - **dotenv** – gestion sécurisée de la clé API  
 
 ---
+
+<img width="1422" height="760" alt="Capture d’écran 2025-10-19 à 19 33 26" src="https://github.com/user-attachments/assets/f5780863-88df-4890-b45c-787945a0cdd6" />
+<img width="1391" height="565" alt="Capture d’écran 2025-10-19 à 19 33 49" src="https://github.com/user-attachments/assets/0e124400-8286-42a3-b208-43b28d1f408f" />
+<img width="1410" height="718" alt="Capture d’écran 2025-10-19 à 19 34 10" src="https://github.com/user-attachments/assets/e363b37e-2c2b-43c7-b200-36f433b502d7" />
+
+
+
+
